@@ -1,0 +1,66 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.header{
+    text-align: center;
+    font-weight: bolder;
+}
+
+.time{
+    display: flex;
+    gap: 25px;
+    text-align: center;
+    justify-content: center;
+}
+
+.des{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.time h1{
+    color: chartreuse;
+}
+
+.des h2{
+    color: chartreuse;
+}
+
+.wallet{
+    justify-content: space-between;
+}
+
+.wallet i{
+    color: yellow;
+}
+
+.wallet h4{
+    font-weight: lighter;
+    align-content: center;
+}
+
+.wallet button{
+    background-color: lightgrey;
+    border-radius: 100px;
+    border: none;
+    height: 50px;
+    width: 15%;
+    cursor: pointer;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.card{
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    background-color: #fff;
+}
+
+.cen{
+
+}
